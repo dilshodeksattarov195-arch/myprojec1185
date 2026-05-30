@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productserify",
+        "uuid": 6186885,
+        "checksum": "vk5oy"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
